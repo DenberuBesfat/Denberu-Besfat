@@ -5,7 +5,7 @@ Denberu Besfat is a research geophysicist at the Geological Institute of Ethiopi
 ## 🔬 Research Focus
 His research investigates the lithospheric architecture and geodynamics of the East African Rift System by integrating:
 * **3-D potential-field inversion**
-* **Remote sensing methodologies**
+* **Microwave remote sensing methodologies**
 * **Seismology datasets**
 
 This work aims to constrain crust–mantle interactions and uncover the structural mechanisms driving continental rifting and regional seismicity.
