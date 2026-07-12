@@ -1,6 +1,6 @@
-# Hi there, I'm Denberu Besfat 👋
+# Denberu Besfat
 
-Denberu is a research geophysicist at the Geological Institute of Ethiopia and a PhD candidate in geophysics at the School of Earth Sciences, Addis Ababa University. 
+Denberu Besfat is a research geophysicist at the Geological Institute of Ethiopia and a PhD candidate in geophysics at the School of Earth Sciences, Addis Ababa University. 
 
 ## 🔬 Research Focus
 His research investigates the lithospheric architecture and geodynamics of the East African Rift System by integrating:
@@ -10,6 +10,6 @@ His research investigates the lithospheric architecture and geodynamics of the E
 
 This work aims to constrain crust–mantle interactions and uncover the structural mechanisms driving continental rifting and regional seismicity.
 
-## 📬 Connect with Me
-* 📧 Email: denberu.besfat@aau.edu.et
-* 👔 [LinkedIn Profile](https://linkedin.com)
+## 📬 Institutional Contact & Links
+* 📧 **Email:** denberu.besfat@aau.edu.et
+* 👔 **Professional Network:** [LinkedIn Profile](https://linkedin.com)
