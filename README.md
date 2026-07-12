@@ -12,4 +12,4 @@ This work aims to constrain crust–mantle interactions and uncover the structur
 
 ## 📬 Institutional Contact & Links
 * 📧 **Email:** denberu.besfat@aau.edu.et
-* 👔 **Professional Network:** [LinkedIn Profile](https://linkedin.com)
+* 👔 **Professional Network:** [LinkedIn Profile](https://www.linkedin.com/in/denberubesfat/)
