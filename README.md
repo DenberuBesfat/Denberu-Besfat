@@ -4,7 +4,7 @@
 
 Denberu Besfat is a research geophysicist at the **Geological Institute of Ethiopia** (formerly GSE) and a PhD candidate at the School of Earth Sciences, College of Natural and Computational Sciences, **Addis Ababa University**. 
 
-His research refines structural models of the **East African Rift System (EARS)** to better understand continental rifting dynamics and regional seismicity.
+His research refines 3-D geophysical models of the **East African Rift System (EARS)** to better understand continental rifting dynamics and regional seismicity.
 
 ---
 
