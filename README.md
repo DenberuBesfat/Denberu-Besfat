@@ -1,18 +1,20 @@
-# Denberu Besfat
+# Hi there, I'm Denberu 👋
 
-**Research Geophysicist** | **PhD Candidate in Geophysics**
+### 🌍 About Me
+Denberu is a **Research Geophysicist** at the **Geological Institute of Ethiopia** and a **Geophysics Doctoral Fellow** at **Addis Ababa University**. 
 
-Denberu Besfat is a research geophysicist at the **Geological Institute of Ethiopia** (formerly GSE) and a PhD candidate at the School of Earth Sciences, College of Natural and Computational Sciences, **Addis Ababa University**. 
+### 🔬 Research Focus
+Studying the lithospheric architecture of the **East African Rift System**, his work integrates:
+* **3-D potential-field inversion**
+* **Spaceborne active microwave remote sensing**
+* **Seismology**
 
-His research refines 3-D geophysical models of the **East African Rift System (EARS)** to better understand continental rifting dynamics and regional seismicity.
+### 🎯 Academic Objectives
+By constraining **crust–mantle interactions**, he aims to resolve the mechanical drivers of:
+* Active continental rifting
+* Lithospheric thinning
+* Intraplate seismicity
 
----
-
-### 🔬 Research & Methodology
-His work integrates multi-disciplinary datasets to map crustal and upper mantle architecture:
-* **3-D Potential-Field Inversion** – Constraining density and magnetic susceptibility contrasts.
-* **Microwave Remote Sensing** – Mapping surface deformation and structural lineaments.
-* **Seismological Imaging** – Delineating lithospheric boundaries and deep crust-mantle interactions.
 
 ---
 
